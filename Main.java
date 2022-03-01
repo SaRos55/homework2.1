@@ -2,6 +2,8 @@ package com.company;
 
 import java.util.Scanner;
 
+// Этот файл относится к ветке feature/code-documentation
+
 public class Main {
 
     public static void main(String[] args) {
